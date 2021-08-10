@@ -2,7 +2,7 @@
 a react native application to view Indonesian food recipes and there are also articles for your cooking inspiration
 
 # Screenshot
-<img src="https://github.com/pepega90/Bisa-masak/blob/main/screenshot/Screenshot_1615017479.png" width="100" height="100" />
+<img src="https://github.com/pepega90/Bisa-masak/blob/main/screenshot/Screenshot_1615017479.png" width="500" height="300" />
 ![Screenshot](https://github.com/pepega90/Bisa-masak/blob/main/screenshot/Screenshot_1615017479.png)
 ![Screenshot](https://github.com/pepega90/Bisa-masak/blob/main/screenshot/Screenshot_1615018627.png)
 ![Screenshot](https://github.com/pepega90/Bisa-masak/blob/main/screenshot/Screenshot_1615018657.png)
